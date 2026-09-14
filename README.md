@@ -224,71 +224,6 @@ Agricultural performance should be evaluated using both productivity and profita
 
 ---
 
-## 📁 Project Structure
-
-```text
-Seasonal-Agriculture-Performance-Analysis/
-│
-├── Dataset/
-│   └── seasonal_agriculture_performance_dataset.csv
-│
-├── Notebook/
-│   └── Seasonal_Agriculture_Performance_Analysis.ipynb
-│
-├── Visuals/
-│   ├── seasonal_yield.png
-│   ├── crop_season_heatmap.png
-│   ├── environmental_correlation.png
-│   ├── water_efficiency.png
-│   ├── economic_performance.png
-│   └── disease_pest_risk.png
-│
-├── Presentation/
-│   └── Seasonal_Agriculture_Performance_Analysis.pptx
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
-## ▶️ How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/Seasonal-Agriculture-Performance-Analysis.git
-```
-
-### 2. Open the project folder
-
-```bash
-cd Seasonal-Agriculture-Performance-Analysis
-```
-
-### 3. Install required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Open Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### 5. Open
-
-```text
-Notebook/Seasonal_Agriculture_Performance_Analysis.ipynb
-```
-
-### 6. Run the notebook cells sequentially.
-
----
-
 ## 📊 Project Outputs
 
 The project produces:
@@ -319,27 +254,6 @@ Future improvements could include:
 * Multi-year agricultural trend analysis
 
 ---
-
-## 👤 Author
-
-**Ayush Sharma**
-
-MBA / Management Student
-Data Analytics Enthusiast
-
-### Skills Demonstrated
-
-* Python
-* Pandas
-* NumPy
-* SQL
-* Excel
-* Power BI
-* Data Cleaning
-* Exploratory Data Analysis
-* Data Visualization
-* Statistical Analysis
-* Business Insights
 
 ---
 
